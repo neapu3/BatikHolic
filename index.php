@@ -89,9 +89,9 @@ border-top-right-radius:10px;
 	<li class="home"><a href="?page=home">Home</a></li>
 	<li class="visi"><a href="?page=visi">Visi</a></li>
 	<li class="product"><a href="?page=produk">Produk</a></li>
-	<li class="howtobuy"><a href="?page=howtobuy">how</a></li>
-	<li class="contact"><a href="?page=contact">Contact</a></li>
-	<li class="berita"><a href="?page=berita">Berita</a></li>
+	<li class="howtobuy"><a href="">how</a></li>
+	<li class="contact"><a href="">Contact</a></li>
+	<li class="berita"><a href="">Berita</a></li>
 	<li class="cabang"><a href="?page=cabang">Cabang</a></li>
 	</ul></td>
       </tr>
